@@ -113,7 +113,7 @@ After the scraper has completed its work, you can find all the customer reviews 
 | author_id | int | The unique identifier for the author of the review on the website |
 | rating | int | The rating given by the author for the product on a scale of 1 to 5 |
 | is_recommended | int | Indicates if the author recommends the product or not (1-true, 0-false) |
-| helpfulness | float | Ratio of negative ratings to positive ratings for the review |
+| helpfulness | float | Ratio of all ratings to positive ratings for the review |
 | total_feedback_count | int | Total number of feedback (positive and negative ratings) left by users for the review |
 | total_neg_feedback_count | int | The number of users who gave a negative rating for the review |
 | total_pos_feedback_count | int | The number of users who gave a positive rating for the review |
