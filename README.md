@@ -4,7 +4,7 @@ This repository contains a portfolio project that demonstrates my skills in writ
 
 ### Project structure
 
-- [`Presentation`](https://github.com/nadyinky/sephora-analysis/blob/main/sephora_presentation.pdf) (in pdf): provides a clear overview of the project, including its objectives, tools, and key findings. It also includes visualizations and summaries of the data analysis and review analysis results.
+- [`Presentation`](https://github.com/nadyinky/sephora-analysis/blob/main/sephora_presentation.pdf) (pdf, ~3 min read): provides a clear overview of the project, including its objectives, tools, and key findings. It also includes visualizations and summaries of the data analysis and review analysis results.
 
 - [`Scrapers`](https://github.com/nadyinky/sephora-analysis/tree/main/sephora_scraper): a folder containing two Python scrapers showcasing my ability to write clean, well-documented, and efficient code. Here you can find installation instructions, details on how the scrapers work, and the expected output format.
 
