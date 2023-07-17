@@ -16,7 +16,7 @@ This repository features two scrapers for retrieving product information and cus
 * SQL
 * Postgres
 * Pydantic (data quality)
-* Jupiter notebook / Colab
+* Jupyter notebook / Colab
 * Pandas / Numpy
 * Matplotlyb / Seaborn
 * Scikit learn
